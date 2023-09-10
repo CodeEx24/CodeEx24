@@ -1,4 +1,4 @@
-<div> <script src="https://cdn.tailwindcss.com"></script> </div>
+
 <div class="grid grid-cols-2 gap-4 justify-center items-center">
    <a href="https://app.daily.dev/CodeMix24"><img src="https://api.daily.dev/devcards/f14c4d8bcf5f496b90d67da77c16a632.png?r=l8i" width="400" alt="Jocarl Basco's Dev Card" class='mx-auto' /></a>
    <div class="">
