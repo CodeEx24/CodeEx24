@@ -2,7 +2,7 @@
 <div class="grid grid-cols-2 gap-4 justify-center items-center">
    <a href="https://app.daily.dev/CodeMix24"><img src="https://api.daily.dev/devcards/f14c4d8bcf5f496b90d67da77c16a632.png?r=l8i" width="400" alt="Jocarl Basco's Dev Card" class='mx-auto' /></a>
    <div class="">
-      <h1 class='font-bold text-4xl text-red-600'> Hello there, I am Jocarl Basco👋 </h1>
+      <h1 class='font-bold text-4xl text-red-600'> Hello there, I'm Jocarl Basco👋 </h1>
       <p class='text-2xl font-semibold mt-4'>Passionate about crafting the web</p>
       <p class='text-xl font-bold mt-4'>Technologies and Tools that I know 🔥</p>
       <br />
