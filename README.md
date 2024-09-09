@@ -13,7 +13,7 @@
          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" height="40" width="52" alt="tailwindcss logo"  />
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-         <img src="[https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg](https://th.bing.com/th/id/OIP.a5JQ4v4pMnKAJUUh7wC-DAAAAA?rs=1&pid=ImgDetMain)" height="40" width="52" alt="nextjs logo"  />
+         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" height="40" width="52" alt="nextjs logo"  />
       </div>
       <div class='flex gap-4 mt-4'>
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
